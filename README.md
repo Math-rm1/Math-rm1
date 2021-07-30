@@ -29,9 +29,9 @@
   <img align="center" alt="Matheus-Ionic" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg">
   <img align="center" alt="Matheus-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <br><br>
-   <img align="center" alt="Matheus-Vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-   <img align="center" alt="Matheus-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-   <img align="center" alt="Matheus-Xd" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg">   
+  <img align="center" alt="Matheus-Vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Matheus-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Matheus-Xd" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg">   
 </div>
   
 <h3>📨 Entre em contato</h3>
@@ -39,4 +39,6 @@
 <div>
   <a href = "mailto:matheus.r.mariano@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-r-mariano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+  ![Snake animation](https://github.com/Math-rm1/Math-rm1/blob/output/github-contribution-grid-snake.svg)
 </div> 
