@@ -23,11 +23,11 @@
   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-  <br>
+ 
+  
+  ![Snake animation](https://github.com/Math-rm1/Math-rm1/blob/output/github-contribution-grid-snake.svg)
+</div> 
   
 <div>
   <a href = "mailto:matheus.r.mariano@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-r-mariano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  ![Snake animation](https://github.com/Math-rm1/Math-rm1/blob/output/github-contribution-grid-snake.svg)
-</div> 
