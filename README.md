@@ -5,7 +5,7 @@
 <h3>👨🏻‍💻 Sobre mim</h3>
 
 - 🎓 Atualmente cursando Sistemas de Informação na Universidade Anhembi Morumbi
-- 💻 Estagiário de Desenvolvimento de Software na TOTVS
+- 💻 Estagiário de TI na TOTVS
 
 <div>
   <a href="https://github.com/Math-rm1">
