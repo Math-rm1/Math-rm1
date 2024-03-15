@@ -5,7 +5,7 @@
 <h3>👨🏻‍💻 Sobre mim</h3>
 
 - 🎓 Formado no curso Sistemas de Informação na Universidade Anhembi Morumbi
-- 💻 Developer - Júnior @Linx
+- 💻 Software Developer - Linx
 
 <div>
   <a href="https://github.com/Math-rm1">
