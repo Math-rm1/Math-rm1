@@ -5,7 +5,7 @@
 <h3>👨🏻‍💻 Sobre mim</h3>
 
 - 🎓 Formado no curso Sistemas de Informação na Universidade Anhembi Morumbi
-- 💻 Analista de desenvolvimento - dti digital
+- 💻 Analista de desenvolvimento
 
 <div>
   <a href="https://github.com/Math-rm1">
